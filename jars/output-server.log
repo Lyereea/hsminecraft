@@ -1,0 +1,30 @@
+2013-11-19 00:48:18 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-11-19 00:48:18 [SERVER] [INFO] Generating keypair
+2013-11-19 00:48:18 [SERVER] [INFO] Converting map!
+2013-11-19 00:48:18 [SERVER] [INFO] Scanning folders...
+2013-11-19 00:48:18 [SERVER] [INFO] Total conversion count is 0
+2013-11-19 00:48:18 [SERVER] [INFO] Preparing start region for level 0
+2013-11-19 00:48:19 [SERVER] [INFO] Preparing spawn area: 12%
+2013-11-19 00:48:20 [SERVER] [INFO] Preparing spawn area: 27%
+2013-11-19 00:48:21 [SERVER] [INFO] Preparing spawn area: 44%
+2013-11-19 00:48:22 [SERVER] [INFO] Preparing spawn area: 62%
+2013-11-19 00:48:23 [SERVER] [INFO] Preparing spawn area: 76%
+2013-11-19 00:48:24 [SERVER] [INFO] Preparing spawn area: 92%
+2013-11-19 00:48:25 [SERVER] [INFO] Player456[/127.0.0.1:0] logged in with entity id 307 at (-173.5, 72.0, 246.5)
+2013-11-19 00:48:25 [SERVER] [INFO] Player456 joined the game
+2013-11-19 00:48:28 [SERVER] [INFO] Saving and pausing game...
+2013-11-19 00:48:28 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-19 00:48:33 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-19 00:48:33 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-19 00:48:33 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-19 00:48:55 [SERVER] [INFO] Saving and pausing game...
+2013-11-19 00:48:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-19 00:48:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-19 00:48:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-19 00:48:56 [SERVER] [INFO] Stopping server
+2013-11-19 00:48:56 [SERVER] [INFO] Saving players
+2013-11-19 00:48:56 [SERVER] [INFO] Player456 left the game
+2013-11-19 00:48:56 [SERVER] [INFO] Saving worlds
+2013-11-19 00:48:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-19 00:48:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-19 00:48:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
